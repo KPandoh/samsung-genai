@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Krishna Pandoh",
+  "github": "KPandoh",
+  "lab1_scenario": "A",
+  "lab1_prompt": "You are a Samsung Product Customer Care Agent.\n\nYour goal is to respond to complaint of the customer without promising refund.\n\nContext: This is customer's 3rd Galaxy Watch battery complaint this month.\n\nConstraints: keep the mail length under 100 words.\n\nTone: The tone should be very warm.\n\nOutput format: Ouput should be in 2 paragraphs, while mentioning details in Bold bullet points.",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 0,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "Starting with 4,200 units, subtract 850 shipped to get 3,350, reserve 6% (201 units), then add the 1,150-unit restock. That leaves 4,299 Galaxy Buds available for sale by the end of the day. The Ai did show the working.",
+  "lab2_cot_prompt": "How many Galaxy Buds units are available for sale by end of day given: starts at 5000, sends out 950, holds 10% of remaining stock, restocks 1550? Work through this one step at a time: first compute the shipment, then the hold, then the restock. Show each step, then state the final answer.",
+  "lab2_cot_output_summary": "5,195 Galaxy Buds units this time, and yes it did show the working.",
+  "better_approach": "cot",
+  "stretch_done": true,
+  "stretch_react_prompt": "How many Galaxy Buds units are available for sale by end of day given: starts at 5000, sends out 950, holds 10% of remaining stock, restocks 1550? Work through this one step at a time: first compute the shipment, then the hold, then the restock. Show each step, then state the final answer. You can ask if there is any insuffcient or required information there.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T09:51:33.691Z"
+}
