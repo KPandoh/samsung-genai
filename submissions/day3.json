@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Krishna Pandoh",
+  "github": "KPandoh",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "C",
+  "rag_no_rag_summary": "It confidently tells the specifications, and also answers correctly about the upgrades.",
+  "rag_grounded_summary": "It confidently tells the specifications, and also answers correctly about the upgrades, but still provides additional information.",
+  "rag_judgement": "confirmed_right",
+  "stretch_done": true,
+  "stretch_notes": "I asked Claude about the models in the upcoming Iphone 18 to which it replied that there is no official information on this but predicted few models on the basis of previous phone. But then I added the information about the upcoming Iphone 18 models and asked Claude to refer this only and nothing else, so this time it answered what I wrote and nothing else, didn't even mention if it officially confirmed or not.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T07:04:58.901Z"
+}
