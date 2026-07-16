@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Krishna Pandoh",
+  "github": "KPandoh",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "The chatbot confidently fabricated a discount policy that did not exist, producing false information that users could not rely on."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "The assistant collected and stored employees' private messages, including sensitive client information, without their knowledge or consent."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "An AI-generated video was presented as real, misleading the public and influencing the company's stock price."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The resume-screening AI unfairly disadvantaged applicants from women's colleges, resulting in discriminatory hiring outcomes."
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The moderation system disproportionately removed posts from one community group, resulting in unfair and discriminatory treatment."
+    },
+    {
+      "id": "F",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Security",
+      "justification": "Scammers used an AI-generated cloned voice to impersonate the finance director, deceiving an employee into authorizing a fraudulent transfer."
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Microsoft (Taylor Swift AI Deepfake Incident)",
+  "stretch_failure_type": "Deepfake/Misinformation",
+  "stretch_principle": "Security",
+  "stretch_notes": "In 2024, AI-generated fake images of Taylor Swift spread rapidly on social media, with many created using Microsoft's AI image generation tools before safeguards were strengthened. The realistic images misled users and demonstrated how AI-generated content can be mistaken for real without clear disclosure.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:30:17.980Z"
+}
